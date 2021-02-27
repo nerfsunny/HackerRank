@@ -1,6 +1,12 @@
 #Files to ignore
 
-.DS_Store
+# Java
 *.class
+
+# C#
+*.exe
+
+# Other
+.DS_Store
+input/ 
 output/
-input/
