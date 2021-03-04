@@ -6,7 +6,7 @@ Number | Problem | Status | Source | Languages(s)
 --- | ------------ | ------------ | ------------ | ------------
 1 | Digit Product | In Progress | HackerRank | C++
 2 | Encryption | In Progress | HackerRank | C++
-3 | Grading Students | Planned | HackerRank | N/A
+3 | Grading Students | Completed | HackerRank | C++
 4 | Java SHA-256 | Planned | HackerRank | Java
 5 | Megaprime Numbers | In Progress | HackerRank | C++
 6 | Subprimes | In Progress | HackerRank | C++
@@ -15,10 +15,11 @@ Number | Problem | Status | Source | Languages(s)
 ## Stats
 Language | Number of Problems
 --- | ---
-C++ | 5
+C++ | 6
 Java | 1
 
 Status | Number of Problems
 --- | ---
-Planned | 2
+Planned | 1
 In Progress | 5
+Completed | 1
