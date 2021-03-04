@@ -1,3 +1,8 @@
 Number | Problem | Status | Source | Languages(s)
 Subprimes | In Progress | HackerRank | C++
 Encryption | In Progress | HackerRank | C++
+Grading Students | Completed | HackerRank | C++
+Java SHA-256 | Planned | HackerRank | Java
+Summing the N series | In Progress | HackerRank | C++
+Megaprime Numbers | In Progress | HackerRank | C++
+Digit Product | In Progress | HackerRank | C++
