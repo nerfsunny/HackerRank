@@ -8,18 +8,21 @@ Number | Problem | Status | Source | Languages(s)
 2 | Encryption | In Progress | HackerRank | C++
 3 | Grading Students | Completed | HackerRank | C++
 4 | Java SHA-256 | Planned | HackerRank | Java
-5 | Megaprime Numbers | In Progress | HackerRank | C++
-6 | Subprimes | In Progress | HackerRank | C++
-7 | Summing the N series | In Progress | HackerRank | C++
+5 | Library Fine | Completed | HackerRank | Swift
+6 | Megaprime Numbers | In Progress | HackerRank | C++
+7 | Pairs | In Progress | HackerRank | Swift
+8 | Subprimes | In Progress | HackerRank | C++
+9 | Summing the N series | In Progress | HackerRank | C++
 
 ## Stats
 Language | Number of Problems
 --- | ---
 C++ | 6
 Java | 1
+Swift | 2
 
 Status | Number of Problems
 --- | ---
 Planned | 1
-In Progress | 5
-Completed | 1
+In Progress | 6
+Completed | 2

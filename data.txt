@@ -6,3 +6,5 @@ Java SHA-256 | Planned | HackerRank | Java
 Summing the N series | In Progress | HackerRank | C++
 Megaprime Numbers | In Progress | HackerRank | C++
 Digit Product | In Progress | HackerRank | C++
+Library Fine | Completed | HackerRank | Swift
+Pairs | In Progress | HackerRank | Swift
