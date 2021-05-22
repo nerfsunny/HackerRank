@@ -8,3 +8,5 @@ Megaprime Numbers | In Progress | HackerRank | C++
 Digit Product | In Progress | HackerRank | C++
 Library Fine | Completed | HackerRank | Swift
 Pairs | In Progress | HackerRank | Swift
+Best Divisor | Completed | HackerRank | C++
+The Great XOR | In Progress | HackerRank | C++

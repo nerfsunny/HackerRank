@@ -4,25 +4,27 @@ This repository contains my attempt at solving programming problems I find on Ha
 ## Complete Problem List
 Number | Problem | Status | Source | Languages(s)
 --- | ------------ | ------------ | ------------ | ------------
-1 | Digit Product | In Progress | HackerRank | C++
-2 | Encryption | In Progress | HackerRank | C++
-3 | Grading Students | Completed | HackerRank | C++
-4 | Java SHA-256 | Planned | HackerRank | Java
-5 | Library Fine | Completed | HackerRank | Swift
-6 | Megaprime Numbers | In Progress | HackerRank | C++
-7 | Pairs | In Progress | HackerRank | Swift
-8 | Subprimes | In Progress | HackerRank | C++
-9 | Summing the N series | In Progress | HackerRank | C++
+1 | Best Divisor | Completed | HackerRank | C++
+2 | Digit Product | In Progress | HackerRank | C++
+3 | Encryption | In Progress | HackerRank | C++
+4 | Grading Students | Completed | HackerRank | C++
+5 | Java SHA-256 | Planned | HackerRank | Java
+6 | Library Fine | Completed | HackerRank | Swift
+7 | Megaprime Numbers | In Progress | HackerRank | C++
+8 | Pairs | In Progress | HackerRank | Swift
+9 | Subprimes | In Progress | HackerRank | C++
+10 | Summing the N series | In Progress | HackerRank | C++
+11 | The Great XOR | In Progress | HackerRank | C++
 
 ## Stats
 Language | Number of Problems
 --- | ---
-C++ | 6
+C++ | 8
 Java | 1
 Swift | 2
 
 Status | Number of Problems
 --- | ---
 Planned | 1
-In Progress | 6
-Completed | 2
+In Progress | 7
+Completed | 3
